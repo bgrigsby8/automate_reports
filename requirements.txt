@@ -1,0 +1,16 @@
+defusedxml==0.7.1
+dnspython==2.7.0
+fonttools==4.55.3
+fpdf2==2.8.1
+googleapis-common-protos==1.66.0
+grpclib==0.4.7
+h2==4.1.0
+hpack==4.0.0
+hyperframe==6.0.1
+multidict==6.1.0
+pillow==11.0.0
+protobuf==5.28.2
+pymongo==4.10.1
+python-dotenv==1.0.1
+typing_extensions==4.12.2
+viam-sdk==0.36.0
